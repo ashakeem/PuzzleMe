@@ -16,4 +16,4 @@ This code provides a solution to solve a Sudoku puzzle using the backtracking al
 
 ## How it was inspired
 
-This code was inspired by the struggles faced while learning and understanding Data Structures and Algorithms (DSA). Solving a Sudoku puzzle using backtracking is a common algorithmic problem that helps reinforce concepts like recursion and constraint satisfaction. It is often used as an exercise to improve problem-solving skills and understand the efficiency of algorithms. By implementing this Sudoku solver, the aim is to provide a practical example of backtracking and its application in solving puzzles.
+This code was inspired by the struggles I faced while learning Data Structures and Algorithms. Solving a Sudoku puzzle using backtracking is a common algorithmic problem that can be used to help reinforce concepts like recursion and constraint satisfaction. Through this project I was able to improve my problem-solving skills and understand the efficiency of algorithms by providing myself with a practical example of backtracking and its application in solving puzzles.
